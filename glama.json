@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "Cruise Excursion Options",
+  "description": "Explore excursion options available for cruise travelers at various ports, enhancing your travel experience."
+}
